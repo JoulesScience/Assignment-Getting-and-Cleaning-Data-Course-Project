@@ -19,7 +19,7 @@ The folowing files were read in the scrip run_analysis.R:
 
 - 'test/y_test.txt': Test labels.
 
-YoThe R script called run_analysis.R does the following:
+The R script called run_analysis.R does the following:
 
 1.Merges the training and the test sets to create one data set.
 

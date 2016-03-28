@@ -66,7 +66,7 @@ write.table(Datatidy, file = "tidydata.txt",row.name=FALSE)
 
 
 
-#Bibliografy: https://rpubs.com/Jb_2823/55939
+#reference material: https://rpubs.com/Jb_2823/55939
 
 
 
